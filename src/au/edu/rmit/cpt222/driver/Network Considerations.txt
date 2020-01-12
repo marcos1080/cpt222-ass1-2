@@ -1,0 +1,10 @@
+Network considerations.
+
+The server is setup to use localhost:6666
+
+This is set in the Config.java file in the comms package.
+This is a static class that can be used to change the network settings.
+
+There is a new menu item in the client that can be used to change
+the default network settings to ease the testing of using a client on a different
+system to the server.
